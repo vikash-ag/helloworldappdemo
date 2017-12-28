@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/vikash-ag/helloworldappdemo/issues"
   },
-  "homepage": "https://github.com/vikash-ag/helloworldappdemo#readme"
+  "homepage": "https://github.com/vikash-ag/helloworldappdemo#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
